@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Universal Excel Splitter",
+  "description": "A generic tool to merge multiple Excel sheets, map arbitrary columns, and split reports based on custom conditions (Values, Thresholds, etc.).",
+  "requestFramePermissions": []
+}
